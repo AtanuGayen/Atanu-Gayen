@@ -2,7 +2,7 @@
 Hello coder , this is my profile
 <h1 align="center">Hello Coder 👋, I'm Atanu</h1>
 <h3 align="center">Passionate about learning web development and Always Exploring new ideas to enhance my tech skills</h3>
-<img align="right" alt="Coding" width="400" src="image1.gif">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0RclOMEQG-XJYdqHQd4w3y&ust=1753723005419000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDH6LrF3Y4DFQAAAAAdAAAAABAm.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atanugayen&label=Profile%20views&color=0e75b6&style=flat" alt="atanugayen" /> </p>
 
