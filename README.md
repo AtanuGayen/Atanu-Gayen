@@ -2,7 +2,7 @@
 Hello coder , this is my profile
 <h1 align="center">Hello Coder 👋, I'm Atanu</h1>
 <h3 align="center">Passionate about learning web development and Always Exploring new ideas to enhance my tech skills</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fai-end-era-human-coders-unsettling-truth-behind-automation-tanay-jain-xoo8e&psig=AOvVaw30KNK-3HXOGlbpBWD_d0Z4&ust=1753722393137000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLCA_6HD3Y4DFQAAAAAdAAAAABAW">
+![Banner](img/image1.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atanugayen&label=Profile%20views&color=0e75b6&style=flat" alt="atanugayen" /> </p>
 
