@@ -2,7 +2,7 @@
 Hello coder , this is my profile
 <h1 align="center">Hello Coder 👋, I'm Atanu</h1>
 <h3 align="center">Passionate about learning web development and Always Exploring new ideas to enhance my tech skills</h3>
-![Banner](img/image1.png)
+<img align="right" alt="Coding" width="400" src="image1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atanugayen&label=Profile%20views&color=0e75b6&style=flat" alt="atanugayen" /> </p>
 
