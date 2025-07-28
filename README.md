@@ -1,5 +1,5 @@
 # Atanu-Gayen
-Hello coder , this is my profile
+Hi coder , this is my profile
 <h1 align="center">Hello Coder 👋, I'm Atanu Gayen</h1>
 <h3 align="center">Passionate about learning web development and Always Exploring new ideas to enhance my tech skills</h3>
 <img align="right" alt="Coding" width="400" src="image1.gif">
